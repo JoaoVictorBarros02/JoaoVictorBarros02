@@ -1,9 +1,11 @@
-### Ola Pessoas! Me chamo João 👋
+## Ola Pessoas! Me chamo João 👋
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-victor-barros-b731b6266/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__eojaoo__/)
 
 ![JoãoVictor GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVictorBarros02&show_icons=true&theme=dracula)
-
+<! --
+**JoaoVictorBarros02/JoaoVictorBarros02** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
+-->
 ## Tecnologias que uso no meu dia 
 
 <div style="display: inline_block"><br/>
